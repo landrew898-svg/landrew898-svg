@@ -3,7 +3,7 @@
   <img src="header.svg" width="100%" alt="Andrew Lopez — Computer Science, Cybersecurity, Software, and Automation" />
 </p>
 
-<p><img src="about.svg" width="100%" alt="Kennesaw State University CS student, Cybersecurity concentration. Graduating December 2026. I build projects to understand systems, language parsing, networking, and cryptography." /></p>
+<p><img src="https://raw.githubusercontent.com/landrew898-svg/landrew898-svg/fb6f6893c1813064db3dbc0ca4d0e6edd48f45cf/about.svg" width="100%" alt="Kennesaw State University CS student, Cybersecurity concentration. Graduating December 2026." /></p>
 
 ## 01 / Selected work
 
