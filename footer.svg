@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="76" viewBox="0 0 800 76" role="img" aria-labelledby="title">
+<title id="title">Build it. Understand it. Make it better.</title>
+<rect width="800" height="76" rx="12" fill="#090e17"/>
+<path d="M0 1H800" stroke="#243147"/><rect class="motion" y="0" width="90" height="2" fill="#52e0ca"><animate attributeName="x" from="-90" to="800" dur="5s" repeatCount="indefinite"/></rect><text x="26" y="45" fill="#a4b3c9" font-size="13" font-weight="400" font-family="Consolas,monospace" >BUILD IT. UNDERSTAND IT. MAKE IT BETTER.</text><text x="748" y="45" fill="#52e0ca" font-size="17" font-weight="400" font-family="Consolas,monospace" >&lt;/&gt;</text>
+</svg>
