@@ -20,7 +20,7 @@
 
 ## 02 / The toolkit
 
-<p><img src="toolkit.svg" width="100%" alt="Java, Python, C, Bash; Git, Docker, Linux; Wireshark, Nmap, OpenSSL; LM Studio for local model testing." /></p>
+<p><img src="toolkit.svg" width="100%" alt="Java, Python, C, Bash; Git, Docker, Linux; Wireshark, Nmap, OpenSSL; LM Studio and Ollama for local model testing." /></p>
 
 ## 03 / In progress
 
